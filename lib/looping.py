@@ -11,3 +11,12 @@ def square_integers(int_list):
 def fizzbuzz():
     # code goes here!
     pass
+
+
+name = "Mark"
+def greetings ():
+    {
+        print(f"welcome {name}")
+    }
+
+greetings()
